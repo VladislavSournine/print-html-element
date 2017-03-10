@@ -1,8 +1,8 @@
 {
   "name": "print-html-element",
   "main": "print-html-element.js",
-  "version": "0.5.1",
-  "homepage": "https://github.com/rpdasilva/print-html-element",
+  "version": "0.5.2",
+  "homepage": "https://github.com/VladislavSournine/print-html-element",
   "authors": [
     "Philip Da Silva <philip@philipdasilva.com>"
   ],
