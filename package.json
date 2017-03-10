@@ -1,6 +1,6 @@
 {
   "name": "print-html-element",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "description": "Prints the HTML of a provided element.",
   "main": "dist/print-html-element.js",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/rpdasilva/print-html-element.git"
+    "url": "https://github.com/VladislavSournine/print-html-element.git"
   },
   "keywords": [
     "html",
