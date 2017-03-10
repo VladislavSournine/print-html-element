@@ -87,7 +87,7 @@ function PrintHtmlElement() {
         } else {
             setTimeout(function() {
                 _callPrint(printWindow, iframe);
-            }, 50);
+            }, 100);
         }
     }
 
