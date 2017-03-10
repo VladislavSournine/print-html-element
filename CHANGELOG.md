@@ -1,4 +1,8 @@
-<a name="0.5.1"></a>
+<a name="0.5.2"></a>
+# 0.4.3 (2017-03-11)
+
+### FireFox 52 timeout 50 to 100 ms
+- SetTimeout 50 -> 100 ms
 # 0.4.2 (2016-06-28)
 
 ### Features
